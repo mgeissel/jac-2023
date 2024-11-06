@@ -1,0 +1,6 @@
+[submodule "jac-back"]
+	path = jac-back
+	url = https://github.com/mgeissel/jac-back.git
+[submodule "jac-front"]
+	path = jac-front
+	url = https://github.com/mgeissel/jac-front.git
