@@ -7,12 +7,12 @@
 </div>
 
 
-## The project
+## The Project
 Les Ailes Déployées is a web project designed to digitalize and streamline the reservation process in the association’s restaurants. This platform allows users to view availability and book tables online, simplifying the reservation management process for both members and administrators. With this real-time booking system, the association can offer a smoother, more organized experience to visitors while optimizing seating capacity in its establishments.
 
 ### Features
 
-**🍽 Online Reservations !**
+**🍽 Online Reservations**
 
 **📊 Administrators Dashboard**
 
